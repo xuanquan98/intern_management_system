@@ -1,0 +1,47 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mssv: 1
+  lop: MyString
+  khoa: MyString
+  nganh: MyString
+  diachi: MyString
+  hoten: MyString
+  ngaysinh: 2018-04-30 11:31:56
+  vnuemail: 
+  diemtb: 1.5
+  namtotnghiep: 1
+  avatar: MyString
+  emailcanhan: MyString
+  skypeid: MyString
+  facebook_url: MyString
+  vitricanbodoan: MyString
+  tienganh: MyString
+  kinhnghiem: MyString
+  sothich: MyString
+  mongmuon: 
+  ghichu: MyString
+  password_digest: MyString
+
+two:
+  mssv: 1
+  lop: MyString
+  khoa: MyString
+  nganh: MyString
+  diachi: MyString
+  hoten: MyString
+  ngaysinh: 2018-04-30 11:31:56
+  vnuemail: 
+  diemtb: 1.5
+  namtotnghiep: 1
+  avatar: MyString
+  emailcanhan: MyString
+  skypeid: MyString
+  facebook_url: MyString
+  vitricanbodoan: MyString
+  tienganh: MyString
+  kinhnghiem: MyString
+  sothich: MyString
+  mongmuon: 
+  ghichu: MyString
+  password_digest: MyString
